@@ -14,7 +14,7 @@ class DetallePelicula : AppCompatActivity() {
 
         if (bundle != null){
             iv_pelicula_imagen.setImageResource(bundle.getInt("header"))
-            tv_nombre_pelicula.setText(bundle.getString("nombre"))
+            tv_nombre_pelicula.setText(bundle.getString("titulo"))
             tv_pelicula_desc.setText(bundle.getString("sinopsis"))
         }
     }

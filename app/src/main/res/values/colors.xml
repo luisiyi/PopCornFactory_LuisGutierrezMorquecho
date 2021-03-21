@@ -8,5 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="yellow">#e0ca37</color>
-    <color name="mainText">#c5c5c5</color>
+    <color name="letra">#c5c5c5</color>
+    <color name="grisclaro">#9E9E9E</color>
+    <color name="gris_fuerte">#c8c8c8</color>
 </resources>

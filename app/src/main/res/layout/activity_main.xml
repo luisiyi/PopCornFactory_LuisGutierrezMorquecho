@@ -30,7 +30,7 @@
         android:textStyle="italic"
         android:textAlignment="center"
         android:padding="15dp"
-        android:textColor="@color/mainText"
+        android:textColor="@color/white"
         android:text="Welcome to Popcorn Factory, home of the best serie and movies. just lay down, make some popcorn and enjoy!"
         />
 
